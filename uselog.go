@@ -1,6 +1,6 @@
 package main
 
-import "logging"
+import "github.com/Ayeshazakria/go-packages/src/logging"
 
 func main() {
     logging.Debug(true)
